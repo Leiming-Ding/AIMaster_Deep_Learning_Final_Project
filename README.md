@@ -75,7 +75,7 @@ I engineered six basic variables to represent the quality of essays: text_length
 ## **Learning and takeaways**
 
 - Transformers had a better performance than sequential neural network models and feedforward neural models considering it is better at capturing the contextual and temporal information.
-- If there is a huge data imbalance, it is hard to build a model with a good performance because it is hard for the model to capture information from unrepresented categories.
+- If there is a huge data imbalance, it is hard to build a model with a good performance because it is hard for the model to capture information from underrepresented categories.
 - Although the final performance may not reach to a satisfactory score, it still shows a decent progress.
 
 ## **Ways to improve**
